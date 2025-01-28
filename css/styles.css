@@ -412,7 +412,20 @@ footer{
   display: flex;
   justify-content: space-around;
   align-items: start;
+
   
+  
+}
+iframe{
+    width: 600px;
+    height: 250px;
+    justify-content: center;
+}
+.ubicacion{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
 }
 
 
